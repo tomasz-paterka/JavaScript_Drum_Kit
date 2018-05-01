@@ -1,2 +1,4 @@
-# JavaScript_Drum_Kit challenge from JavaScript30 course
+# JavaScript_Drum_Kit 
+
+Challenge from JavaScript30 course
 
